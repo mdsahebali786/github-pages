@@ -1,0 +1,67 @@
+Intern Name: Md Saheb
+Department: Cyber Security 
+Date: 24 June 2025
+Task Title: Phishing Email Analysis
+Objective: To analyze a suspicious email and identify phishing characteristics to raise awareness of common email-based cyber threats.
+
+#code hear
+From: security-update@paypa1.com
+Subject: Urgent: Account Verification Required
+
+Dear paypa1,
+
+We noticed suspicious login activity on your PayPal account. For your protection, your account has been temporarily locked. Please verify your identity immediately by clicking the link below:
+
+[Click here to verify](http://paypa1.verify-id.ru/login)
+
+Failure to act will result in permanent account suspension.
+
+Thank you,  
+PayPal Security Team
+
+1. What is phishing?
+Phishing is a type of cyber attack where attackers trick individuals into revealing sensitive information—such as usernames, passwords, credit card numbers, or personal data—by posing as a legitimate entity, usually via deceptive emails, messages, or websites.
+Phishing is a form of social engineering, and it's one of the most common and dangerous threats in cybersecurity.
+2. How to identify a phishing email?
+
+    The following signs can often identify phishing emails:
+    Spoofed or suspicious sender address (e.g., service@paypa1.com)
+    Urgent or threatening language ("Your account will be suspended!")
+    Generic greetings ("Dear user")
+    Mismatched or strange-looking URLs (hover reveals real link)
+    Unexpected attachments or download requests
+    Spelling or grammar errors
+    Lack of personal or account-specific information
+
+3. What is email spoofing?
+Email spoofing is the process of forging the sender’s email address to make it appear as though the message comes from a trusted source.
+Attackers use spoofing to deceive recipients into opening phishing emails or clicking malicious links.
+Technically, it exploits the lack of authentication in the SMTP (Simple Mail Transfer Protocol).
+
+4. Why are phishing emails dangerous?
+Phishing emails are dangerous because:
+They steal sensitive data like login credentials or financial information.
+They may install malware, ransomware, or spyware.
+They can lead to identity theft and financial fraud.
+
+5. How can you verify the sender’s authenticity?
+To verify a sender's authenticity:
+Check the sender’s email address carefully for misspellings or extra characters.
+Use email header analysis tools to inspect the full delivery path.
+Hover over links to check their true destinations.
+Cross-check with official websites or contacts.
+For critical emails, contact the sender directly via an official channel (not by replying to the email).
+
+ 6. What tools can analyze email headers?
+  Popular tools to analyze and verify email headers include:
+ MxToolbox Email Header Analyzer
+Google Admin Toolbox - Messageheader
+Cisco Talos Intelligence
+ MailHeader.org
+Built-in email client header views (Outlook, Gmail, Thunderbird)
+
+ 7. What actions should be taken on suspected phishing emails?
+When a phishing email is suspected:
+Do not click any links or download attachments.
+Do not reply to the email.
+Report the email to your IT/security team.
